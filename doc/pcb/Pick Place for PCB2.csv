@@ -5,12 +5,13 @@ C:\Users\a.nikitin\Desktop\altium_projects\SCT2A22STER_5v_output\doc\pcb\Pick Pl
 File Design Information:
 
 Date:       26.09.24
-Time:       17:01
-Revision:   de495e79f64842b8b58f80d3809558ff5965d50d
+Time:       23:07
+Revision:   0df2f911211bfd30eea0e55494d72af1f65b035b
 Variant:    No variations
 Units used: mil
 
 "Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"L1","DRQ127-330-R","TopLayer","XFMR_DRQ127-150-R","1408.465","751.968","0","Inductor Power Shielded"
 "X4","DG340R-3.81-02P","TopLayer","340-021-12","2468.504","259.842","90","Connectors"
 "L2","{Value}","TopLayer","CD54NP","2066.929","492.126","180","Inductor"
 "C7","{Value}","TopLayer","C_0603","2145.669","305.118","90","Capacitor"
@@ -19,14 +20,13 @@ Units used: mil
 "X1","DG340R-3.81-02P","TopLayer","340-021-12","403.543","162.480","0","Connectors"
 "U1","SCT2A22STER","TopLayer","ESOP-8","791.339","755.905","0","Buck dc/dc"
 "R8","6k8","TopLayer","R_0603","562.992","566.929","90","Resistor"
-"R6","20k","TopLayer","R_0603","755.906","606.299","0","Resistor"
+"R6","30k","TopLayer","R_0603","755.906","606.299","0","Resistor"
 "R7","165k","TopLayer","R_0603","484.252","681.102","90","Resistor"
-"R5","5k1","TopLayer","R_0603","874.016","606.299","180","Resistor"
-"R4","30k","TopLayer","R_0603","562.992","681.102","90","Resistor"
+"R5","4k7","TopLayer","R_0603","874.016","606.299","180","Resistor"
+"R4","75k","TopLayer","R_0603","562.992","681.102","90","Resistor"
 "R3","95k3","TopLayer","R_0603","1885.827","645.669","90","Resistor"
 "R2","100k","TopLayer","R_0603","1738.189","519.685","180","Resistor"
 "R1","0R","TopLayer","R_0603","1901.575","952.756","90","Resistor"
-"L1","DRQ127-330-R","TopLayer","XFMR_DRQ127-150-R","1408.465","751.968","0","Inductor Power Shielded"
 "D2","10BQ100","TopLayer","DO-214AA","1779.528","897.638","270","Diode"
 "D1","10BQ100","TopLayer","DO-214AA","157.480","314.961","270","Diode"
 "C9","1nF","TopLayer","C_0603","1856.299","519.685","0","Capacitor"
